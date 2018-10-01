@@ -1,0 +1,7 @@
+{
+  "name": "icp6a",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
